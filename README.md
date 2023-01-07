@@ -222,7 +222,7 @@ JavaScript, Node.js this type of technologies.** <br />
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-stats-alpha.vercel.app/api?username=aspak0&cc=000&tc=fff&ic=fff&bc=000"
+    src="https://github-stats-alpha.vercel.app/api?username=aspak0&cc=1a1b27&tc=f67da5&ic=0df1ed&bc=fff"
     alt="aspak0"
   />
 </p>
