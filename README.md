@@ -19,16 +19,16 @@
 
 - 📚 I’m currently learning **Full Stack devolopment** <br />
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at ↙️ <br />
 [https://github.com/aspak0?tab=repositories](https://github.com/aspak0?tab=repositories)
 <br />
 
-- 💬 Ask me about **How to devolop a website and webapplication using React,
+- 💬 Ask me about ➛ **How to devolop a website and webapplication using React,
 JavaScript, Node.js this type of technologies.** <br />
 
-- 📫 How to reach me **aspakiqbal@gmail.com** <br />
+- 📫 How to reach me ➛ **aspakiqbal@gmail.com** <br />
 
-- ✨ Hobby **Photography, Learning new skills.** <br />
+- ✨ My Hobby ➛ **Photography, Learning new skills.** <br />
 <hr />
 
 <h3 align="left">Connect with me:</h3>
