@@ -1,14 +1,8 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://github.com/aspak0)
+
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05F7DC&width=435&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Aspak.;%F0%9F%92%BBFront-End+Devoloper.+" alt="Typing SVG" />
 </a>
-<img
-  align="right"
-  width="400"
-  alt="coding"
-  src="https://webcoder.co.in/storage/2021/04/website.gif"
-/>
 
 <p align="left">
   <img
@@ -218,6 +212,7 @@ JavaScript, Node.js this type of technologies.** <br />
   />
 </p>
 </p>
+[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://github.com/aspak0)
 
 <p>
   &nbsp;<img
