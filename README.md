@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05F7DC&width=435&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Aspak.;%F0%9F%92%BBFront-End+Devoloper.+" alt="Typing SVG" />
 </a>
 
+<hr />
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=aspak0&label=Profile%20views&color=0e75b6&style=flat"
@@ -16,6 +17,7 @@
 - 👨‍💻 All of my projects are available at ↙️ <br />
 [https://github.com/aspak0?tab=repositories](https://github.com/aspak0?tab=repositories)
 <br />
+<hr />
 
 - 💬 Ask me about ➛ **How to devolop a website and webapplication using React,
 JavaScript, Node.js this type of technologies.** <br />
@@ -87,6 +89,7 @@ JavaScript, Node.js this type of technologies.** <br />
   /></a>
 </p>
 
+<hr />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -229,5 +232,6 @@ JavaScript, Node.js this type of technologies.** <br />
     alt="aspak0"
   />
 </p>
+<hr />
 
 [![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://github.com/aspak0)
