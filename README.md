@@ -212,7 +212,7 @@ JavaScript, Node.js this type of technologies.** <br />
   />
 </p>
 </p>
-[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://github.com/aspak0)
+
 
 <p>
   &nbsp;<img
@@ -229,3 +229,5 @@ JavaScript, Node.js this type of technologies.** <br />
     alt="aspak0"
   />
 </p>
+
+[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://github.com/aspak0)
