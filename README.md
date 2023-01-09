@@ -1,18 +1,32 @@
+<p align="center">
+   <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=0001&pause=&color=05F7AC&vCenter=true&multiline=true&repeat=false&width=435&lines=++++++++++++++++++++%CE%9B%D1%95%CF%81%CE%B1%D0%BA" alt="Typing SVG" /></a>
+    </p>
+ <!-- Typing SVG -->
+ 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=05F7AC&width=470&lines=%F0%9D%99%B5%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%97%F0%9D%9A%9D-%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%8D+%F0%9D%9A%A0%F0%9D%9A%8E%F0%9D%9A%8B+%26+%F0%9D%9A%A0%F0%9D%9A%8E%F0%9D%9A%8B+%F0%9D%9A%8A%F0%9D%9A%99%F0%9D%9A%99+%F0%9D%99%B3%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%99%F0%9D%9A%8E%F0%9D%9A%9B.;%F0%9F%93%9A+%F0%9D%9A%95%F0%9D%9A%8E%F0%9D%9A%8A%F0%9D%9A%9B%F0%9D%9A%97%F0%9D%9A%92%F0%9D%9A%97%F0%9D%9A%90+%F0%9D%99%B5%F0%9D%9A%9E%F0%9D%9A%95%F0%9D%9A%95+%F0%9D%9A%82%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%8C%F0%9D%9A%94+%F0%9D%99%B3%F0%9D%9A%8E%F0%9D%9A%9F%F0%9D%9A%98%F0%9D%9A%95%F0%9D%9A%98%F0%9D%9A%99%F0%9D%9A%96%F0%9D%9A%8E%F0%9D%9A%97%F0%9D%9A%9D." alt="Typing SVG" /></a>
+</P>
+
+<!-- Social icons section -->
+
+<p align="center"> 
+    <a href="https://www.youtube.com/channel/UCVJ9nZ0dFOCGUh-5cd86SMg">
+        <img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/105554184/211297118-b836d8e3-792c-4433-9cba-e61069063e05.png"/></a>
+     &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://dev.to/denvercoder1">
+        <img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://user-images.githubusercontent.com/105554184/211296295-8246ee32-79bd-47b5-9f06-4d039b977d16.png"></a>
+     &#8287;&#8287;&#8287;&#8287;&#8287;
+    
+   
 
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05F7DC&width=435&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2C+I'm+Aspak.;%F0%9F%92%BBFront-End+Devoloper.+" alt="Typing SVG" />
-</a>
+   
 
-<hr />
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=aspak0&label=Profile%20views&color=0e75b6&style=flat"
-    alt="aspak0"
-  />
+    
+  
+    
 </p>
 
-- 📚 I’m currently learning **Full Stack devolopment** <br />
 
 - 👨‍💻 All of my projects are available at ↙️ <br />
 [https://github.com/aspak0?tab=repositories](https://github.com/aspak0?tab=repositories)
@@ -25,7 +39,7 @@ JavaScript, Node.js this type of technologies.** <br />
 - 📫 How to reach me ➛ **aspakiqbal@gmail.com** <br />
 
 - ✨ My Hobby ➛ **Photography, Learning new skills.** <br />
-<hr />
+
 
 <details open>
     <summary><h3 align="left">Connect with me:</h3> </summary>
@@ -235,5 +249,11 @@ JavaScript, Node.js this type of technologies.** <br />
   />
 </p>
 <hr />
-
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=aspak0&label=Profile%20views&color=0e75b6&style=flat"
+    alt="aspak0"
+  />
+</p>
 [![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://github.com/aspak0)
+
