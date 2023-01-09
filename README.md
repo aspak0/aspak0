@@ -27,7 +27,8 @@ JavaScript, Node.js this type of technologies.** <br />
 - ✨ My Hobby ➛ **Photography, Learning new skills.** <br />
 <hr />
 
-<h3 align="left">Connect with me:</h3>
+<details open>
+    <summary><h3 align="left">Connect with me:</h3> </summary>
 <p align="left">
   <a href="https://codepen.io/aspakiqbal" target="blank"
     ><img
@@ -88,7 +89,8 @@ JavaScript, Node.js this type of technologies.** <br />
       width="65"
   /></a>
 </p>
-
+</details>
+    
 <hr />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
