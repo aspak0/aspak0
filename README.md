@@ -281,7 +281,7 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=aspak0&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=aspak0&label=Profile%20views&color=0ff6b5&style=flat"
     alt="aspak0"
   />
 </p>
