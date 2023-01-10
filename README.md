@@ -183,7 +183,7 @@
     </a>
    
    <a href="#">
-   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aspak0&bg_color=1a1b27&color=F8D866&line=F85D7F&point=FFFFFF" />
+   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aspak0&bg_color=1a1b27&color=f67da5&line=0df1ed&point=FFFFFF" />
      </a>
 </details> 
       
