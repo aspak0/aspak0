@@ -150,8 +150,14 @@
 
 
 
-<p>
-    <img
+
+<!-- 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 𝚊𝚗𝚍 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢  -->
+
+
+<details open> 
+  <summary><h2>📊 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 𝚊𝚗𝚍 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢</h2></summary>
+<p align="left">
+   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspak0&theme=tokyonight"
     alt="aspak0"
@@ -174,8 +180,10 @@
     src="https://streak-stats.demolab.com/?user=aspak0&theme=tokyonight"
     alt="aspak0"
   />
-</p>
-<hr />
+
+ </p>
+</details> 
+      
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=aspak0&label=Profile%20views&color=0e75b6&style=flat"
