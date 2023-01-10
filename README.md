@@ -73,10 +73,11 @@
 </p>
 
 
-
+<!-- Simple projects -->
 <details open> 
   <summary><h2>📘𝚂𝚒𝚖𝚙𝚕𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h2></summary>
-   <h3>🔻𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h3
+<!--  JavaScript   -->
+   <h3>🔻𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h3>
 <p align="left">
    
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/Login_signup">
@@ -110,8 +111,44 @@
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/survay_form">
  <img width="278" src="https://user-images.githubusercontent.com/105554184/211526913-a0ca0b49-936b-4cd9-b94e-89cd73a1a4e6.png" alt="survay-form">
  </a>
+      
+<!--    React Projects    -->
+   <h3>🔻𝚁𝚎𝚊𝚌𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h3>
+ <a href="https://github.com/aspak0/simple_projets/tree/master/React_Project/calculator">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211532379-e21fcb9c-0cec-4cfd-a5f8-baabd9544e7e.png" alt="calculator">
+ </a>
+ 
+ <a href="https://github.com/aspak0/simple_projets/tree/master/React_Project/shoppingcart">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211532420-c4c73dde-f959-4923-9a73-f7d312e20be5.png" alt="shopping-cart">
+ </a>
+ 
+ <a href="https://github.com/aspak0/simple_projets/tree/master/React_Project/tictacapp">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211532454-39ee590d-e464-4aa6-a060-183d83876eef.png" alt="tic-tac-app">
+ </a>
 </p>
 </details>
+
+<!-- Advanced Projects -->
+
+<details open> 
+  <summary><h2>📕𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h2></summary>
+<p align="left">
+  <a href="https://github.com/aspak0/Advanced-projects/tree/master/crypto-price-tracker">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211533964-12a98193-0270-4806-aa00-eb6c7c5035a0.png" alt="crypto-price-tracker">
+ </a>
+ 
+ <a href="https://github.com/aspak0/Advanced-projects/tree/master/linkedin-clone">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211534029-9aeff85a-108f-436a-9754-4084135ee18d.png" alt="linkedin-clone">
+ </a>
+    
+ <a href="https://github.com/aspak0/Advanced-projects/tree/master/travel-adviser">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211534058-15b4a2b5-2269-4293-8e1e-2ec3b1c6ee14.png" alt="travel-adviser">
+ </a>
+ </p>
+</details> 
+   
+
+
 
 <p>
     <img
