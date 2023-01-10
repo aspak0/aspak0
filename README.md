@@ -192,7 +192,7 @@
 
 
 <details open> 
-  <summary><h2>⚙️➛𝙻𝚊𝚞𝚗𝚐𝚞𝚊𝚐𝚎 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜</h2></summary>
+  <summary><h2>⚙️➛𝙵𝚊𝚟𝚘𝚞𝚛𝚒𝚝𝚎 𝚃𝚘𝚘𝚕𝚜</h2></summary>
    
    <a href="#">
     <img alt="adobe lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
