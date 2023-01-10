@@ -77,7 +77,9 @@
 <details open> 
   <summary><h2>📘𝚂𝚒𝚖𝚙𝚕𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h2></summary>
 <!--  JavaScript   -->
-   <h3>🔻𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h3>
+   <details open> 
+  <summary><h3>☞𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h3></summary>
+   
 <p align="left">
    
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/Login_signup">
@@ -111,9 +113,11 @@
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/survay_form">
  <img width="278" src="https://user-images.githubusercontent.com/105554184/211526913-a0ca0b49-936b-4cd9-b94e-89cd73a1a4e6.png" alt="survay-form">
  </a>
-      
+ </details>    
 <!--    React Projects    -->
-   <h3>🔻𝚁𝚎𝚊𝚌𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h3>
+    <details open> 
+  <summary><h3>☞𝚁𝚎𝚊𝚌𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h3></summary>
+   
  <a href="https://github.com/aspak0/simple_projets/tree/master/React_Project/calculator">
  <img width="278" src="https://user-images.githubusercontent.com/105554184/211532379-e21fcb9c-0cec-4cfd-a5f8-baabd9544e7e.png" alt="calculator">
  </a>
@@ -126,6 +130,7 @@
  <img width="278" src="https://user-images.githubusercontent.com/105554184/211532454-39ee590d-e464-4aa6-a060-183d83876eef.png" alt="tic-tac-app">
  </a>
 </p>
+   </details>
 </details>
 
 <!-- Advanced Projects -->
