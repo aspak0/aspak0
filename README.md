@@ -156,40 +156,38 @@
 
 <details open> 
   <summary><h2>📊 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 𝚊𝚗𝚍 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢</h2></summary>
-<p align="left">
-   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspak0&theme=tokyonight"
-    alt="aspak0"
-  />
-</p>
-</p>
-
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-stats-alpha.vercel.app/api?username=aspak0&cc=1a1b27&tc=f67da5&ic=0df1ed&bc=fff"
-    alt="aspak0"
-  />
-</p>
-
-<p>
+  <h3> 🔥 Streak Stats </h3>
+<a href="#">
   <img
     align="center"
     src="https://streak-stats.demolab.com/?user=aspak0&theme=tokyonight"
     alt="aspak0"
   />
+   </a>
+   <h3> 👨‍💻 GitHub Profile Stats </h3>
+   
 
- </p>
-</details> 
-      
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=aspak0&label=Profile%20views&color=0e75b6&style=flat"
+<a href="#">
+  &nbsp;<img
+    align="center"
+    src="https://github-stats-alpha.vercel.app/api?username=aspak0&cc=1a1b27&tc=f67da5&ic=0df1ed&bc=fff"
     alt="aspak0"
   />
-</p>
+   </a>
+
+  <a href="#"> 
+   <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspak0&theme=tokyonight"
+    alt="aspak0"
+    </a>
+   
+   <a href="#">
+   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aspak0&bg_color=1a1b27&color=F8D866&line=F85D7F&point=FFFFFF" />
+     </a>
+</details> 
+      
+
 
 
 
@@ -275,3 +273,10 @@
 </details>
 
 
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=aspak0&label=Profile%20views&color=0e75b6&style=flat"
+    alt="aspak0"
+  />
+</p>
