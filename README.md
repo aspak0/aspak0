@@ -80,37 +80,36 @@
 <p align="left">
    
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/Login_signup">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/211483810-9068e371-6e94-49d8-bcfd-d7447185cee0.png" alt="Login_signup">
- </a>
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211525533-1a56b800-9c1f-48e9-b8f4-c8eb0b5c2b5b.png" alt="Login_signup">
+</a>
       
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/transperent_card">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/211489908-317a5768-e3e9-4ccc-a145-9ea596263fd8.png" alt="transperent-card">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211525873-5d2f6b38-d9d8-490f-9274-e1c8b7f6bcf5.png" alt="transperent-card">
  </a>
   
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/sorting_Visualizer">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/211489979-d6ce0791-909e-4ee8-a59e-82e3b5214429.png" alt="sorting-visualizer">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211526110-5b511241-1935-4f02-bf4f-9998f67172b9.png" alt="sorting-visualizer">
  </a>
-   
+
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/colorpicker">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/211490050-e63a2118-3399-4d98-9222-26676d71f0e7.png" alt="color-picker">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211526275-1c841ac8-9414-4216-8762-05a77854f0c7.png" alt="color-picker">
  </a>
-      
+
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/datafetch">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/211490116-09e7d28e-73e8-43ab-a2ce-1f7996cb9bf8.png" alt="data-fetch">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211526422-a59784ef-6e3d-47d3-a0c8-ea72c2de7196.png" alt="data-fetch">
  </a>
-     
+
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/counter">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/211490213-c4a9b786-da83-4fcd-97cd-1c5f136c8681.png" alt="counter">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211526573-99c84cd2-4273-4499-9bc8-7a713ab9c728.png" alt="counter">
  </a>
-      
+ 
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/playingcard">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/211490304-82d6ab01-266f-460d-a768-ab1f79a550d5.png" alt="playing-card">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211526737-34ce7219-7a45-4c05-96bd-524d7a8a5427.png" alt="playing-card">
  </a>
-   
+
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/survay_form">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/211490363-f36bd31c-126f-4bcd-84a1-2ea62cb729a3.png" alt="survay-form">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211526913-a0ca0b49-936b-4cd9-b94e-89cd73a1a4e6.png" alt="survay-form">
  </a>
-      
 </p>
 </details>
 
