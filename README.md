@@ -8,13 +8,19 @@
 </P>
 
 <!-- Social icons section -->
-
 <p align="center"> 
+   
+<!-- Holopin -->
+<a href="https://www.holopin.io/@aspak0#">
+<img width="32px" alt="Holopin" title="Holopin" src="https://www.holopin.io/images/logo.png"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+<!-- Youtube -->
+   
 <a href="https://www.youtube.com/channel/UCVJ9nZ0dFOCGUh-5cd86SMg">
 <img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/105554184/211297118-b836d8e3-792c-4433-9cba-e61069063e05.png"/></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 
-<!--     -->
+<!--   dev.to  -->
 <a href="https://dev.to/aspak0">
 <img width="32px" alt="Dev.to" title="aspak0 Dev.to" src="https://user-images.githubusercontent.com/105554184/211296295-8246ee32-79bd-47b5-9f06-4d039b977d16.png"></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
