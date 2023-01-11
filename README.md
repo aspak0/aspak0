@@ -186,15 +186,15 @@
   />
    </a>
 
-  <a href="#"> 
+<!--   <a href="#"> 
    <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspak0&theme=tokyonight"
     alt="aspak0"
-    </a>
+    </a> -->
    
    <a href="#">
-   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aspak0&bg_color=1a1b27&color=f67da5&line=0df1ed&point=FFFFFF" />
+   <img alt="Aspak Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=aspak0&bg_color=1a1b27&color=f67da5&line=0df1ed&point=FFFFFF" />
      </a>
 </details> 
       
