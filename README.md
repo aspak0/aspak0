@@ -89,9 +89,10 @@
 <p align="left">
    
 
+
    
    <a href="https://aspak0.github.io/Bit_wallet.github.io/">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/215332744-f82e9a86-6258-416d-a401-0447382e6052.png" alt="bit-wallet">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/215332862-becdeeeb-42ae-48e1-a7bb-9bd26ae96eda.jpeg" alt="bit-wallet">
 </a>
    
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/Login_signup">
