@@ -82,6 +82,19 @@
 <!-- Simple projects -->
 <details open> 
   <summary><h2>📘𝚂𝚒𝚖𝚙𝚕𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h2></summary>
+   
+<!--  HTML   -->
+   <details open> 
+    <summary><h3>☞ 𝙷𝚃𝙼𝙻 & 𝙲𝚂𝚂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h3></summary>
+   <p align="left">
+      
+    <a href="https://aspak0.github.io/Bit_wallet.github.io/">
+    <img width="278" src="https://user-images.githubusercontent.com/105554184/215332862-becdeeeb-42ae-48e1-a7bb-9bd26ae96eda.jpeg" alt="bit-wallet">
+    </a>
+  </details>     
+      
+      
+   
 <!--  JavaScript   -->
    <details open> 
   <summary><h3>☞𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h3></summary>
@@ -89,12 +102,6 @@
 <p align="left">
    
 
-
-   
-   <a href="https://aspak0.github.io/Bit_wallet.github.io/">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/215332862-becdeeeb-42ae-48e1-a7bb-9bd26ae96eda.jpeg" alt="bit-wallet">
-</a>
-   
  <a href="https://github.com/aspak0/simple_projets/tree/master/JavaScript-project/Login_signup">
  <img width="278" src="https://user-images.githubusercontent.com/105554184/211525533-1a56b800-9c1f-48e9-b8f4-c8eb0b5c2b5b.png" alt="Login_signup">
 </a>
