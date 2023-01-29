@@ -87,10 +87,10 @@
    <details open> 
     <summary><h3>☞ 𝙷𝚃𝙼𝙻 & 𝙲𝚂𝚂 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 </h3></summary>
    <p align="left">
-      
-    <a href="https://aspak0.github.io/Bit_wallet.github.io/">
+      <a href="https://aspak0.github.io/Bit_wallet.github.io/">
     <img width="278" src="https://user-images.githubusercontent.com/105554184/215332862-becdeeeb-42ae-48e1-a7bb-9bd26ae96eda.jpeg" alt="bit-wallet">
     </a>
+    </p>
   </details>     
       
       
