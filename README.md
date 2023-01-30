@@ -160,12 +160,7 @@
 <p align="left">
   <a href="https://github.com/aspak0/Advanced-projects/tree/master/crypto-price-tracker">
  <img width="278" src="https://user-images.githubusercontent.com/105554184/211533964-12a98193-0270-4806-aa00-eb6c7c5035a0.png" alt="crypto-price-tracker">
- </a>
- 
- <a href="https://github.com/aspak0/Advanced-projects/tree/master/linkedin-clone">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/211534029-9aeff85a-108f-436a-9754-4084135ee18d.png" alt="linkedin-clone">
- </a>
-    
+ </a>   
  <a href="https://github.com/aspak0/Advanced-projects/tree/master/travel-adviser">
  <img width="278" src="https://user-images.githubusercontent.com/105554184/211534058-15b4a2b5-2269-4293-8e1e-2ec3b1c6ee14.png" alt="travel-adviser">
  </a>
