@@ -135,8 +135,6 @@
  </a>
  </details>  
    
-   ![PicsArt_02-12-06 07 18](https://user-images.githubusercontent.com/105554184/218311624-f3414fe3-f454-445e-9659-279e331d1108.png)
-
 
 <!--    React Projects    -->
   <details open> 
