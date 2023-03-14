@@ -78,6 +78,23 @@
    </a> 
 </p>
 
+<!-- Advanced Projects -->
+
+
+<details open> 
+  <summary><h2>📕𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h2></summary>
+<p align="left">
+   <a href="https://aspak-codepen-clone.netlify.app/">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/225014397-718c0c87-8cdb-4da6-8034-9dbb6c91b0d5.png" alt="codepen-clone">
+ </a>
+  <a href="https://github.com/aspak0/React-projects/tree/main/crypto-price-tracker">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211533964-12a98193-0270-4806-aa00-eb6c7c5035a0.png" alt="crypto-price-tracker">
+ </a>   
+ <a href="https://github.com/aspak0/React-projects/tree/main/travel-adviser">
+ <img width="278" src="https://user-images.githubusercontent.com/105554184/211534058-15b4a2b5-2269-4293-8e1e-2ec3b1c6ee14.png" alt="travel-adviser">
+ </a>
+ </p>
+</details> 
 
 <!-- Simple projects -->
 <details open> 
@@ -162,19 +179,7 @@
    </details>
 </details>
 
-<!-- Advanced Projects -->
 
-<details open> 
-  <summary><h2>📕𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h2></summary>
-<p align="left">
-  <a href="https://github.com/aspak0/React-projects/tree/main/crypto-price-tracker">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/211533964-12a98193-0270-4806-aa00-eb6c7c5035a0.png" alt="crypto-price-tracker">
- </a>   
- <a href="https://github.com/aspak0/React-projects/tree/main/travel-adviser">
- <img width="278" src="https://user-images.githubusercontent.com/105554184/211534058-15b4a2b5-2269-4293-8e1e-2ec3b1c6ee14.png" alt="travel-adviser">
- </a>
- </p>
-</details> 
    
 
 
