@@ -84,9 +84,9 @@
 <details open> 
   <summary><h2>♻️MERN-Stack 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h2></summary>
 <p align="left">
-<a href="https://cummerbund-agouti.cyclic.app/">
-   <img width="278" src="https://github.com/aspak0/aspak0/assets/105554184/8ee02e8e-c94d-417e-8f3d-9bf8dca01ddd" alt="book-shelf">
-</a>
+ <a href="https://cummerbund-agouti.cyclic.app/">
+ <img width="278" src="https://github-production-user-asset-6210df.s3.amazonaws.com/105554184/260222142-28cbaf5c-8e64-4c55-8eab-6371132b714a.png" alt="bookShelf">
+ </a>
 </p>
 </details> 
 
