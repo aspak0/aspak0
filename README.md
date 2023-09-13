@@ -77,14 +77,7 @@
     <img alt="linux" title="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
    </a> 
 </p>
-
-<!-- Portfolio -->
-<p align="center">
- <a href="https://aspak-portfolio.vercel.app/" target='_blank'>
- <img width="275" src="https://github.com/aspak0/aspak0/assets/105554184/229a7c01-2e16-487d-a8cf-1fdc41749cd7" alt="portfolio">
- </a>
-</p>
- 
+<h4 align="center"><a href="https://aspak-portfolio.vercel.app/">𝕄𝕪 𝕡𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠 👈🏻</a></h4>
 <!-- MERN Projects -->
 <details open> 
   <summary><h2>♻️MERN-Stack 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h2></summary>
