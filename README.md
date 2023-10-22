@@ -79,7 +79,10 @@
    </a> 
 </p>
 
-<p align="left"><a href="https://aspak-portfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=13DBF7&background=827FFF00&repeat=false&width=435&lines=%F0%9D%95%84%F0%9D%95%AA+%F0%9D%95%A1%F0%9D%95%A0%F0%9D%95%A3%F0%9D%95%A5%F0%9D%95%97%F0%9D%95%A0%F0%9D%95%9D%F0%9D%95%9A%F0%9D%95%A0+%F0%9F%91%88%F0%9F%8F%BB" alt="Typing SVG" /></a></p>
+<p align="left">
+   <a href="https://aspak-portfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=13DBF7&background=827FFF00&repeat=false&width=435&lines=%F0%9D%95%84%F0%9D%95%AA+%F0%9D%95%A1%F0%9D%95%A0%F0%9D%95%A3%F0%9D%95%A5%F0%9D%95%97%F0%9D%95%A0%F0%9D%95%9D%F0%9D%95%9A%F0%9D%95%A0+%F0%9F%91%88%F0%9F%8F%BB" alt="Typing SVG" /></a>
+</p>
+
 <!-- MERN Projects -->
 <details open> 
   <summary><h2>♻️MERN-Stack 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜</h2></summary>
