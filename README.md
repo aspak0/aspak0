@@ -82,6 +82,11 @@
 <p align="left">
    <a href="https://aspak-portfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=13DBF7&background=827FFF00&repeat=false&width=435&lines=%F0%9D%95%84%F0%9D%95%AA+%F0%9D%95%A1%F0%9D%95%A0%F0%9D%95%A3%F0%9D%95%A5%F0%9D%95%97%F0%9D%95%A0%F0%9D%95%9D%F0%9D%95%9A%F0%9D%95%A0+%F0%9F%91%88%F0%9F%8F%BB" alt="Typing SVG" /></a>
 </p>
+<p align="left">
+   <a href="https://g.dev/cod3rash">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Google_Developers_logo.svg/320px-Google_Developers_logo.svg.png" />
+</a>
+</p>
 
 <!-- MERN Projects -->
 <details open> 
